@@ -22,5 +22,4 @@ python analyzer.py sample_logs/auth.log
 - Successful login after repeated failures
 - Repeated authentication failures against one user
 
-## Portfolio Goal
-Do not only upload code. Explain why each rule exists, show example output, document false positives, and describe how you would improve the rule in a production SOC.
+
